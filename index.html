@@ -50,7 +50,7 @@
             <button class="btn btn-primary" onclick="reset()">Reset</button>
             <p class="calbody">Timer count:<span id="timer"></span></p>
             <p class="calbody">Target:<span id="targetvalue"></span></p>
-            <div class="container ">
+            <div class="container d-none d-md-block">
                 <table class="text-center cal">
                     <tr>
                         <td colspan="3"><input class="calbutton" type="text" id="value"/></td>
@@ -81,8 +81,13 @@
                         <td><input class="calbutton" type="button" value="*" onclick="calculate('*')"/></td>
                     </tr>
                 </table>
+                <p id="result"></p>
             </div>
-            <p id="result"></p>
+            
+            <div class="calbody d-block d-md-none">
+                <p>Only available on desktop hehe.
+                </p>
+            </div>
         </div>
         </div>
         <div class="footer text-center" id="link">
