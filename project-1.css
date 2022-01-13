@@ -1,0 +1,58 @@
+.banner{
+    background:linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+    background-size: cover;
+    height: 100vh;
+    color:#5F9EA0;
+    font-family: Times New Roman;
+    padding-top:auto;
+}
+.imag{
+    height:220px;
+    width: 170px;
+    border-radius: 10px;
+}
+.about{
+    margin-top: 20px;
+    font-size: 25px;
+    color:white;
+    background-color: lightgrey;
+    padding:20px;
+    border-radius: 10px;
+    width:50%;
+}
+.calcicontainer{
+    background-color: hsl(197, 30%, 76%);
+    height:100vh;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(177, 115, 221);
+    padding: 40px;
+}
+.background{
+    background-color: rgb(236, 228, 228);
+    padding:20px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+}
+.cal{
+    margin-left: auto;
+  margin-right: auto;
+}
+.calbody{
+    font-style: italic;
+    margin:10px;
+}
+.calbutton{
+    width:100%;
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    padding:10px;
+}
+.footer{
+    padding:50px;
+    background-color: rgb(97, 86, 86);
+    color:white;
+}
+a{
+    color:white;
+}
