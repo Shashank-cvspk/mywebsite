@@ -21,8 +21,7 @@
     border-radius: 10px;
 }
 .aboutsmall{
-    margin-left: 20%;
-    margin-right: 20%;
+    margin:auto;
     font-size: 20px;
     color:rgb(134, 114, 114);
     padding:20px;
