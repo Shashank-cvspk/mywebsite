@@ -12,13 +12,13 @@
     border-radius: 10px;
 }
 .about{
-    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
     font-size: 25px;
     color:white;
     background-color: lightgrey;
     padding:20px;
     border-radius: 10px;
-    width:50%;
 }
 .calcicontainer{
     background-color: hsl(197, 30%, 76%);
